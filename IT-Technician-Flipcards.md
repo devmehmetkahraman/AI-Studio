@@ -63,6 +63,5 @@ This file is ideal for:
 - Interactive guides in workshops or classes
 
 ---
-
 **Summary:**  
 This is a well-structured, interactive, and visually engaging HTML flipcard presentation about the Interim IT Technician role, using modern web technologies for a smooth user experience. If you have specific questions (e.g., about expanding it, deploying it, or improving accessibility), let me know!
